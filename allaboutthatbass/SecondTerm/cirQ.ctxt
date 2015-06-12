@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=cirQ()
+comment1.params=x
+comment1.target=cirQ(int)
+comment2.params=x
+comment2.target=void\ add(int)
+comment3.params=
+comment3.target=int\ del()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ destroy()
+numComments=6

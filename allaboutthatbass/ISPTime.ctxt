@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ISPTime()
+comment1.params=h\ m
+comment1.target=void\ readtime(int,\ int)
+comment2.params=
+comment2.target=void\ disptimeansi()
+comment3.params=t
+comment3.target=int\ timetominutes(ISPTime)
+comment4.params=min
+comment4.target=void\ minutestotime(int)
+comment5.params=start\ end
+comment5.target=ISPTime\ diff(ISPTime,\ ISPTime)
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=S
+comment0.target=java.lang.String\ togglecase(java.lang.String)
+comment1.params=S
+comment1.target=java.lang.String\ capitalcase(java.lang.String)
+comment2.params=S
+comment2.target=java.lang.String\ sentencecase(java.lang.String)
+comment3.params=s\ wrd
+comment3.target=int\ Countwrd(java.lang.String,\ java.lang.String)
+comment4.params=s
+comment4.target=void\ frequency(java.lang.String)
+comment5.params=
+comment5.target=void\ destroy()
+numComments=6

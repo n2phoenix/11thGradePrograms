@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pidlatin()
+comment1.params=t
+comment1.target=void\ readstring(java.lang.String)
+comment2.params=
+comment2.target=void\ convert()
+comment3.params=
+comment3.target=void\ consonant()
+comment4.params=c
+comment4.target=boolean\ isVowel(char)
+numComments=5

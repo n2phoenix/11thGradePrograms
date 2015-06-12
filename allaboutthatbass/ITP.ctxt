@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=ITP(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ doTrans()
+comment2.params=opThis\ prec1
+comment2.target=void\ gotOper(char,\ int)
+comment3.params=ch
+comment3.target=void\ gotParen(char)
+numComments=4

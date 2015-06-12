@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=s\ x\ de
+comment1.target=java.lang.String\ techniqueA(java.lang.String,\ byte,\ byte)
+comment2.params=s\ de
+comment2.target=java.lang.String\ techniqueB(java.lang.String,\ byte)
+numComments=3

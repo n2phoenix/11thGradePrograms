@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=prime_queue()
+comment1.params=m\ n
+comment1.target=void\ push_prime(int,\ int)
+comment2.params=n
+comment2.target=boolean\ check_prime(int)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ destroy()
+numComments=5
